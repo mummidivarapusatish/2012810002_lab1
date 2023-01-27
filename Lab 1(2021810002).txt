@@ -1,0 +1,12 @@
+mkdir 2021810002
+cd 2021810002 
+pwd
+echo "hello, This is our first lab"
+touch "names.txt"
+cat>names.txt
+cat neams.txt
+touch satishlab1.txt
+cp names.txt satishlab1.txt
+rm names.txt
+tail -3 satishlab1.txt
+wc -l satoshlab1.txt
